@@ -1,0 +1,13 @@
+
+Task1 
+1. Install mysqlserver, set root password
+2. Modify setup.sh and replace "root" with password
+3. Install gtk-2, gcc, mysql connector for C(libmysqlclient-dev) (or run install.sh)
+4. run setup.sh
+5. run ./main
+
+Task2
+1. Install g++
+2. compile thermal_image.cpp using g++
+3. Replace input file with input
+4. run the program with input file as input (eg:: thermal_image < input)
